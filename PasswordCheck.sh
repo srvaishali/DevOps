@@ -23,3 +23,4 @@ else
    echo "Pass Minimum 12 character password"
    exit
 fi
+
